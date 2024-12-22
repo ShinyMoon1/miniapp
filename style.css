@@ -1,0 +1,212 @@
+*{
+    margin: 0%;
+    font-family: "Poppins", sans-serif;
+}
+
+.backim{
+    background-image: url(1663682556_e-2.png);
+    background-size: cover;
+    color: white;
+    width: auto;
+    height: 811px;
+    
+}
+
+.logo{
+    margin-left: 164px;
+    padding-top: 23px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.headtext{
+    margin-left: 166px;
+    margin-top: 120px;
+    width: 616px;
+}
+
+.weight_h5{
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+}
+
+.weight_h1{
+    margin-top: 43px;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.link_head{
+    color: #FFD723;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 43px;
+}
+
+.nav_logo{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 164px;
+    top: 35px;
+}
+
+.all_items{
+    height: 611px;
+}
+
+.midtext{
+    color: #4D533C;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 200px;
+    margin-left: 166px;
+    width: 607px;
+    height: 92px;
+}
+
+.style_list{
+    color: #4D533C;
+    font-weight: 500;
+    font-size: 24px;
+    list-style-type: none;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.inline{
+    float: left;
+    margin-right: 30px;
+    width: 255px;
+}
+
+.inline h6{
+    margin-top: 20px;
+    color: #213842;
+    font-size: 14px;
+    height: 100px;
+}
+
+.inline a{
+    color: #D4D6D4;
+    font-size: 16px;
+}
+
+.inline a:hover{
+    color: #FFD723;
+}
+
+.child{
+    position: absolute;
+    background-color: white;
+    top: 1460px;
+    width: 1275px;
+    height: 362px;
+}
+
+.text{
+    width: 822px;
+    height: 148px;
+    margin-left: 165px;
+    margin-top: 60px;
+}
+
+.douther_text{
+    color: #4D533C;
+    font-size: 60px;
+}
+
+.link_footer{
+    color: #D4D6D4;
+}
+
+.link_footer:hover{
+    color: #FFD723;
+}
+
+.footer{
+    width: 100%;
+    height: 1000px;
+    background-color: #4F553D;
+}
+
+.phone{
+    color: #B6C197;
+    font-size: 16px;
+}
+
+.number{
+    color: white;
+    margin-top: 25px;
+}
+
+.date{
+    width: 1511px;
+    padding-bottom: 50px;
+    padding-top: 290px;
+    margin-right: 166px;
+    margin-left: 166px;
+    border-bottom: 3px rgba(93, 101, 68, 1) solid ;
+}
+
+.phone_date{
+    margin-right: 150px;
+    float: left;
+}
+
+.data2{
+    height: 320px;
+    width: 1511px;
+    margin-left: 166px;
+    list-style-type: none;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 3px rgba(93, 101, 68, 1) solid;
+}
+
+.list_data{
+    padding: 0%;
+    float: left;
+    margin-right: 150px;
+}
+
+.email_data{
+    height: 322px;
+    margin-left: 860px;
+    border-left: 3px rgba(93, 101, 68, 1) solid;
+}
+
+.number1{
+    color: white;
+}
+
+.phone1{
+    color: #B6C197;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.email{
+    color: white;
+    margin-top: 30px;
+}
+
+.last{
+    margin-top: 50px;
+    margin-left: 166px;
+    color: white;
+}
+
+.logo1{
+    font-weight: 700;
+    font-size: 35px;
+    float: left;
+    margin-right: 1068px;
+}
+
+.last_words{
+    font-size: 14px;
+}
